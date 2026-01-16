@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Debug symbols
+*.dSYM/
+
+# Ejecutables
+*.out
+a.out
